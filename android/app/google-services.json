@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624124749218",
+    "project_id": "instant-eats-fee70",
+    "storage_bucket": "instant-eats-fee70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624124749218:android:b23a5f402d5821a6f93efb",
+        "android_client_info": {
+          "package_name": "com.example.instant_eats_foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624124749218-5246kqqo2t5gb4eqkguis1avrmftbcfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_9Vbxw9aoT8kPwES7_x901oHMErlgFpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624124749218-5246kqqo2t5gb4eqkguis1avrmftbcfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
